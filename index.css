@@ -5,12 +5,22 @@ body {
 	text-align: center;
 	margin: auto;
 	width: 50%;
+	height: 50%;
 	padding: 10px;
 }
-
 /* Add padding to containers */
 .container {
   padding: 16px;
+}
+/* Menu Button Styles */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+/* Add a hover effect for buttons */
+ul:hover {
+  opacity: 0.8;
 }
 
 /* Change styles for span and cancel button on extra small screens */
