@@ -18,8 +18,15 @@ ul {
   margin: 0;
   padding: 0;
 }
+ul a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 /* Add a hover effect for buttons */
-ul:hover {
+ul a:hover {
   opacity: 0.8;
 }
 
