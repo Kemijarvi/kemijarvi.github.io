@@ -1,0 +1,18 @@
+/* Background Image, Text Alignment, & Border */
+body {
+	background-image: url('https://kemijarvi.github.io/resources/bg_0a.png');
+	background-size: cover;
+	text-align: center;
+	margin: auto;
+	width: 50%;
+	height: 50%;
+	padding: 10px;
+}
+/* Add padding to containers */
+.container {
+	padding: 16px;
+}
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+
+}
