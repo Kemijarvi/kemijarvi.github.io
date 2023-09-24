@@ -30,6 +30,7 @@ ul a {
 /* Add a hover effect for buttons */
 ul a:hover {
   opacity: 0.8;
+  background-color: #999;
 }
 
 /* Change styles for span and cancel button on extra small screens */
